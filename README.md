@@ -16,14 +16,11 @@ Este proyecto corresponde a una práctica inicial con **QCustomPlot**, donde se 
 
 ## Capturas
 
-- **Captura 01**: Interfaz inicial con el botón para graficar.  
-  ![Compilacion](pegar_enlace_a_captura_01)
+- **Captura 01**: Gráfico generado de la función `sin(x)`.  
+  ![GraficoSin](https://github.com/SantiagoBaeza/Primer-gr-fico-con-QCustomPlot/blob/main/01_captura.jpg)
 
-- **Captura 02**: Gráfico generado de la función `sin(x)`.  
-  ![GraficoSin](pegar_enlace_a_captura_02)
-
-- **Captura 03**: Gráfico generado de la función `cos(x)`.  
-  ![GraficoCos](pegar_enlace_a_captura_03)
+- **Captura 02**: Gráfico generado de la función `cos(x)`.  
+  ![GraficoCos](https://github.com/SantiagoBaeza/Primer-gr-fico-con-QCustomPlot/blob/main/02_captura.jpg)
 
 ---
 

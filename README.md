@@ -46,7 +46,7 @@ Este proyecto corresponde a una práctica inicial con **QCustomPlot**, donde se 
 ## Comentarios finales
 
 Los archivos del proyecto están incluidos en este repositorio para que cualquier persona pueda descargarlos y compilarlos localmente en **Qt** con la librería **QCustomPlot**.  
-De esta manera, es posible revisar el código, ejecutar la aplicación y comprobar tanto la integración de la DLL como la generación de gráficos en tiempo real.  
+De esta manera, es posible revisar el código, ejecutar la aplicación y comprobar tanto la integración de la DLL como la generación de gráficos en tiempo real. Se agrego la carpeta QtParserPlot.zip la cual contiene la DLL de QCustomPlot y tambien contiene las de MuParser las cuales se van a usar en el futuro, con el fin de que esta DLL sea reutilizable las coloque ambas en el mismo lugar, esa carpeta se debe colocar junto a las carpetas del disco local C: (del ordenador) para acceder desde el codigo ahi.   
 
 Este ejercicio tiene como objetivo servir de práctica inicial en la **visualización de datos con Qt**, reforzar el manejo de librerías externas y dejar registro de mis avances en programación gráfica.
 

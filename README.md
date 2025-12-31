@@ -1,6 +1,6 @@
-[⬅️ Volver a "Recopilación de proyectos con Qt"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-Qt)
+[⬅️ Volver a "Proyectos con Qt"](https://github.com/SantiagoBaeza/proyectos-con-Qt/tree/main)
 
-# Gráfico con QCustomPlot
+# Gráfico basico con QCustomPlot
 
 Este proyecto implementa un gráfico sencillo en Qt utilizando la librería externa **QCustomPlot**.  
 Se integró la DLL correspondiente y se configuró el proyecto para enlazar los archivos necesarios, permitiendo graficar funciones matemáticas básicas mediante señales y slots.

@@ -24,7 +24,7 @@ Este proyecto corresponde a una práctica inicial con **QCustomPlot**, donde se 
 
 ---
 
-## Funcionalidad clave
+## Funcionalidad
 
 - Integración de la librería **QCustomPlot** mediante DLL.  
 - Un **QPushButton** que, al hacer clic, genera puntos de `y = sin(x)` y los dibuja.  
